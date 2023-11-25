@@ -11,9 +11,12 @@ https://link.springer.com/chapter/10.1007/978-981-99-3932-9_24
 CITATIONS
 
 M, C.D. and Senapati, R. (2022) “An adoptive heart disease prediction model using machine learning 
-approach,” 2022 OITS International Conference on Information Technology (OCIT). Available at: 
-https://doi.org/10.1109/ocit56763.2022.00020.
+approach,” 2022 OITS International Conference on Information Technology (OCIT). 
+
+Available at: https://doi.org/10.1109/ocit56763.2022.00020.
 
 Maddukuri, C.D., Senapati, R. (2024). Hybrid Clustering-Based Fast Support Vector Machine Model for Heart 
 Disease Prediction. In: Udgata, S.K., Sethi, S., Gao, XZ. (eds) Intelligent Systems. ICMIB 2023. Lecture Notes 
-in Networks and Systems, vol 728. Springer, Singapore. https://doi.org/10.1007/978-981-99-3932-9_24.
+in Networks and Systems, vol 728. Springer, Singapore. 
+
+Available at: https://doi.org/10.1007/978-981-99-3932-9_24.
