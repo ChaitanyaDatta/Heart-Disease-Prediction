@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction
-This a project where heart disease is predicted using a novel approach, Clustering Based Support Vector Machine approach i.e; EM-SVM. I have published research articles on this topic and I made it public to help others in creating new machine learning frameworks. Feel free to check them out.
+This a project where heart disease is predicted using a novel approach, Clustering Based Support Vector Machine approach i.e; EM-SVM. I have published research articles on this topic and I made it public to help others in creating new machine learning frameworks. To know more about this project, visit the article links provided below.
 
 The research article is provided with in the links below.
 
