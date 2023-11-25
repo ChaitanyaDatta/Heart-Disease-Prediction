@@ -5,7 +5,7 @@ https://ieeexplore.ieee.org/document/10053739
 
 https://link.springer.com/chapter/10.1007/978-981-99-3932-9_24
 
-# CITATIONS
+# Citations
 
 M, C.D. and Senapati, R. (2022) “An adoptive heart disease prediction model using machine learning 
 approach,” 2022 OITS International Conference on Information Technology (OCIT). 
