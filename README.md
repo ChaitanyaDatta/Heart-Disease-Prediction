@@ -1,14 +1,11 @@
 # Heart-Disease-Prediction
 This a project where heart disease is predicted using a novel approach, Clustering Based Support Vector Machine approach i.e; EM-SVM. I have published research articles on this topic and I made it public to help others in creating new machine learning frameworks. To know more about this project, visit the article links provided below.
 
-The research article is provided with in the links below.
-
 https://ieeexplore.ieee.org/document/10053739
 
 https://link.springer.com/chapter/10.1007/978-981-99-3932-9_24
 
-
-CITATIONS
+# CITATIONS
 
 M, C.D. and Senapati, R. (2022) “An adoptive heart disease prediction model using machine learning 
 approach,” 2022 OITS International Conference on Information Technology (OCIT). 
